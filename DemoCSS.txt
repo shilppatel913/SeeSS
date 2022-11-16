@@ -1,1 +1,1 @@
-This repo will give you a CSS tutorial.
+This repo will give you a CSS tutorial and a pull request has been made.
